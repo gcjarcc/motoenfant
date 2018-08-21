@@ -1,4 +1,4 @@
-remote_theme: ferrolho/jekyll-theme-libretto
+remote_theme: mmistakes/jekyll-theme-basically-basic
 name: Moto Enfant
 plugins:
   - jekyll-seo-tag
