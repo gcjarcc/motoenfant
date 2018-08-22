@@ -1,6 +1,7 @@
 ---
 title: "Moto Enfant: toute l'info sur les deux roues pour les enfants"
-layout: about
+layout: page
+permalink: "/"
 ---
 # Moto Enfant: toute l'info sur les deux roues pour les enfants
 
